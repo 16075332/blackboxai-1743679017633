@@ -1,0 +1,14 @@
+/project/sandbox/user-workspace/TaskManager/bin/Debug/net8.0/TaskManager
+/project/sandbox/user-workspace/TaskManager/bin/Debug/net8.0/TaskManager.deps.json
+/project/sandbox/user-workspace/TaskManager/bin/Debug/net8.0/TaskManager.runtimeconfig.json
+/project/sandbox/user-workspace/TaskManager/bin/Debug/net8.0/TaskManager.dll
+/project/sandbox/user-workspace/TaskManager/bin/Debug/net8.0/TaskManager.pdb
+/project/sandbox/user-workspace/TaskManager/obj/Debug/net8.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/TaskManager/obj/Debug/net8.0/TaskManager.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/TaskManager/obj/Debug/net8.0/TaskManager.AssemblyInfo.cs
+/project/sandbox/user-workspace/TaskManager/obj/Debug/net8.0/TaskManager.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/TaskManager/obj/Debug/net8.0/TaskManager.dll
+/project/sandbox/user-workspace/TaskManager/obj/Debug/net8.0/refint/TaskManager.dll
+/project/sandbox/user-workspace/TaskManager/obj/Debug/net8.0/TaskManager.pdb
+/project/sandbox/user-workspace/TaskManager/obj/Debug/net8.0/TaskManager.genruntimeconfig.cache
+/project/sandbox/user-workspace/TaskManager/obj/Debug/net8.0/ref/TaskManager.dll
